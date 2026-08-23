@@ -18,11 +18,11 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 ## 📁 Repository Structure
 
 ```text
-├── 01-Database-Design-ERD/
-│   ├── Day-01-Conceptual-Modeling/
+├── 01-Relational DB Design/
+│   ├── Day-01-ERD/
 │   │   ├── README.md               
-│   │   └── ERD-Solutions.pdf      
-│   └── Day-02-Relational-Mapping/
+│   │   └── Lab_01_solution.pdf      
+│   └── Day-02-Mapping/
 
 ```
 
