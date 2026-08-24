@@ -4,7 +4,7 @@ This module covers the core foundations of relational database systems, moving f
 
 ---
 
-## 🎯 Learning Objectives by Day
+##  Learning Objectives by Day
 
 * **Day 01 — Conceptual Modeling & ERD:**
   * Translating business rules into formal Entity-Relationship (ER) diagrams.
@@ -32,7 +32,7 @@ This module covers the core foundations of relational database systems, moving f
 
 ---
 
-## 📋 Labs & Practical Milestones
+##  Labs & Practical Milestones
 
 | Lab | Focus Topic 
 | :--- | :--- |
