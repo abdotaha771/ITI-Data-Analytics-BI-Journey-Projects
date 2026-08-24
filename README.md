@@ -4,7 +4,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 ---
 
-## 🎯 Track Objectives & Core Competencies
+##  Track Objectives & Core Competencies
 
 * **Relational Database Design:** Conceptual (ERD) & logical data modeling using SQL Server.
 * **Advanced Querying & Manipulation:** Complex joins, subqueries, indexing, views, and execution plans.
@@ -31,7 +31,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 ---
 
-## 📌 Course Roadmap & Modules
+##  Course Roadmap & Modules
 
 | Module | Core Topics | Status |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 ---
 
-## 👤 Author
+##  Author
 **Abdelrahman Taha**
 * Data Analytics & Engineering Practitioner
 * [GitHub Profile](https://github.com/abdotaha771) • [LinkedIn Profile](https://www.linkedin.com/in/abdelrahman-taha136/)
