@@ -22,7 +22,10 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │   ├── Day-01-ERD/
 │   │   ├── README.md               
 │   │   └── Lab_01_solution.pdf      
-│   └── Day-02-Mapping/
+│   └── Day-02-Relational-Mapping-and-SQL-Basics/
+│       ├── README.md
+│       ├── Lab_02.pdf
+│       └── Lab_02_solution.pdf
 
 ```
 
