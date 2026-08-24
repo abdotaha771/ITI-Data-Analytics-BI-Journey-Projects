@@ -10,10 +10,10 @@ This module covers the core foundations of relational database systems, moving f
   * Translating business rules into formal Entity-Relationship (ER) diagrams.
   * Mastering cardinalities (1:1, 1:N, M:N), constraints (Total/Partial), and complex attributes (Composite, Multi-valued).
 
-* **Day 02 — Relational Schema Mapping:**
-  * Converting ERDs into relational table schemas.
-  * Enforcing referential integrity using Primary Keys, Foreign Keys, and Unique constraints.
----
+* **Day 02 — Relational Schema Mapping & SQL Server Basics:**
+  * Converting conceptual ERDs into relational schemas and physical database diagrams.
+  * Implementing referential integrity with Primary Keys, Foreign Keys, and Unique constraints.
+  * Writing basic T-SQL data retrieval queries using aliases, string concatenation, and conditional filtering.
 
 ## 📁 Module Directory Structure
 
@@ -22,7 +22,10 @@ This module covers the core foundations of relational database systems, moving f
 ├── Day-01-ERD/
 │   ├── README.md                
 │   └── lab_01_solution.pdf     
-├── Day-02-Mapping/
+└── Day-02-Relational-Mapping-and-SQL-Basics/
+│       ├── README.md
+│       ├── Lab_02.pdf
+│       └── Lab_02_solution.pdf
 
 ```
 
@@ -34,4 +37,4 @@ This module covers the core foundations of relational database systems, moving f
 | Lab | Focus Topic 
 | :--- | :--- |
 | **Lab 01** | Conceptual ERD Design |
-| **Lab 02** | Relational Mapping & Constraints |
+| **Lab 02** | Relational Schema Mapping & SQL Server Basics |
