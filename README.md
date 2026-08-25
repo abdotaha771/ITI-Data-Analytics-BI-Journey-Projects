@@ -6,7 +6,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 ##  Track Objectives & Core Competencies
 
-* **Relational Database Design:** Conceptual (ERD) & logical data modeling using SQL Server.
+* **Relational Database Design & SQL:** Conceptual (ERD) & logical data modeling using SQL Server.
 * **Advanced Querying & Manipulation:** Complex joins, subqueries, indexing, views, and execution plans.
 * **Data Warehousing & ETL:** Dimensional modeling, Star/Snowflake schemas, and fact/dimension implementation.
 * **Business Intelligence & Storytelling:** Interactive dashboard design and reporting via Power BI and Tableau.
@@ -18,7 +18,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 ## 📁 Repository Structure
 
 ```text
-├── 01-Relational DB Design/
+├── 01-Relational DB Design & SQL/
 │   ├── Day-01-ERD/
 │   │   ├── README.md               
 │   │   └── Lab_01_solution.pdf      
@@ -29,6 +29,9 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │   └── Day-03-Normalization-and-SQL/
 │       ├── README.md
 │       └── Lab_03_solution.sql
+│   └── Day-04-SQL-and-DML/
+│       ├── README.md
+│       └── Lab_04_solution.sql
 
 ```
 
@@ -38,7 +41,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 | Module | Core Topics | Status |
 | :--- | :--- | :--- |
-| **Module 1: Relational DB Design** | ERD, Mapping, Constraints, Normalization | In Progress |
+| **Module 1: Relational DB Design & SQL** | ERD, Mapping, Constraints, Normalization, SQL | In Progress |
 | **Module 2: Advanced SQL Server** | T-SQL, Window Functions, Indexing, Triggers | Upcoming |
 | **Module 3: Data Warehousing** | Dimensional Modeling, Star/Snowflake Schemas | Upcoming |
 | **Module 4: BI & Analytics** | Power BI & Tableau Enterprise Dashboards | Upcoming |
