@@ -20,7 +20,7 @@ This module covers the core foundations of relational database systems, moving f
   * Constructing complex multi-table queries using `INNER JOIN`, `LEFT JOIN`, and `SELF JOIN`.
   * Managing database records using Data Manipulation Language (`INSERT`, `UPDATE`) with logical constraints.
 
-* **Day 04 — Advanced SQL Operations & Referential DML:**
+* **Day 04 — SQL Operations & Referential DML:**
   * Combining query results using set operators (`UNION`)[cite: 4].
   * Implementing aggregate functions (`SUM`, `AVG`, `MIN`, `MAX`, `COUNT`) with `GROUP BY` and `HAVING` filtering[cite: 4].
   * Writing nested and correlated subqueries with `EXISTS` and `NOT IN` predicates[cite: 4].
@@ -43,7 +43,7 @@ This module covers the core foundations of relational database systems, moving f
 │   ├── README.md
 │   ├── Lab_03.jpg
 │   └── Lab_03_solution.sql
-└── Day-04-Advanced-SQL-and-DML/
+└── Day-04-SQL-and-DML/
     ├── README.md
     └── Lab_04_solution.sql
 
