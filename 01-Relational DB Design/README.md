@@ -1,4 +1,4 @@
-# 🗄️ Module 01: Relational Database Design & Conceptual Modeling
+#  Module 01: Relational Database Design & Conceptual Modeling
 
 This module covers the core foundations of relational database systems, moving from abstract business rules to structured conceptual schemas (ERDs), relational mapping, schema normalization, and physical database integrity.
 
