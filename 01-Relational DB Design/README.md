@@ -17,8 +17,8 @@ This module covers the core foundations of relational database systems, moving f
 
 * **Day 03 — Schema Normalization & SQL Operations:**
   * Applying functional dependencies and normal forms (1NF, 2NF, 3NF, BCNF) to eliminate redundancy and anomalies.
-  * Constructing complex multi-table queries using `INNER JOIN`, `LEFT JOIN`, and `SELF JOIN`[cite: 3].
-  * Managing database records using Data Manipulation Language (`INSERT`, `UPDATE`) with logical constraints[cite: 3].
+  * Constructing complex multi-table queries using `INNER JOIN`, `LEFT JOIN`, and `SELF JOIN`.
+  * Managing database records using Data Manipulation Language (`INSERT`, `UPDATE`) with logical constraints.
 
 ---
 
