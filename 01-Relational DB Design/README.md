@@ -15,18 +15,28 @@ This module covers the core foundations of relational database systems, moving f
   * Implementing referential integrity with Primary Keys, Foreign Keys, and Unique constraints.
   * Writing basic T-SQL data retrieval queries using aliases, string concatenation, and conditional filtering.
 
+* **Day 03 — Schema Normalization & SQL Operations:**
+  * Applying functional dependencies and normal forms (1NF, 2NF, 3NF, BCNF) to eliminate redundancy and anomalies.
+  * Constructing complex multi-table queries using `INNER JOIN`, `LEFT JOIN`, and `SELF JOIN`[cite: 3].
+  * Managing database records using Data Manipulation Language (`INSERT`, `UPDATE`) with logical constraints[cite: 3].
+
+---
+
 ## 📁 Module Directory Structure
 
 ```text
 01-Relational-Database-Design/
 ├── Day-01-ERD/
 │   ├── README.md                
-│   └── lab_01_solution.pdf     
-└── Day-02-Relational-Mapping-and-SQL-Basics/
-│       ├── README.md
-│       ├── Lab_02.pdf
-│       └── Lab_02_solution.pdf
-
+│   └── lab_01_solution.pdf      
+├── Day-02-Relational-Mapping-and-SQL-Basics/
+│   ├── README.md
+│   ├── Lab_02.pdf
+│   └── Lab_02_solution.pdf
+└── Day-03-Normalization-and-SQL/
+    ├── README.md
+    ├── Lab_03.jpg
+    └── Lab_03_solution.sql
 ```
 
 
@@ -38,3 +48,4 @@ This module covers the core foundations of relational database systems, moving f
 | :--- | :--- |
 | **Lab 01** | Conceptual ERD Design |
 | **Lab 02** | Relational Schema Mapping & SQL Server Basics |
+| **Lab 03** | Normalization & SQL |
