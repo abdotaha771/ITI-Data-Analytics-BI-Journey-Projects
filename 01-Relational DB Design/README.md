@@ -1,4 +1,4 @@
-#  Module 01: Relational Database Design & Conceptual Modeling
+#  Module 01: Relational Database Design & SQL
 
 This module covers the core foundations of relational database systems, moving from abstract business rules to structured conceptual schemas (ERDs), relational mapping, schema normalization, and physical database integrity.
 
@@ -20,6 +20,12 @@ This module covers the core foundations of relational database systems, moving f
   * Constructing complex multi-table queries using `INNER JOIN`, `LEFT JOIN`, and `SELF JOIN`.
   * Managing database records using Data Manipulation Language (`INSERT`, `UPDATE`) with logical constraints.
 
+* **Day 04 — Advanced SQL Operations & Referential DML:**
+  * Combining query results using set operators (`UNION`)[cite: 4].
+  * Implementing aggregate functions (`SUM`, `AVG`, `MIN`, `MAX`, `COUNT`) with `GROUP BY` and `HAVING` filtering[cite: 4].
+  * Writing nested and correlated subqueries with `EXISTS` and `NOT IN` predicates[cite: 4].
+  * Performing multi-table transactional modifications (`INSERT`, `UPDATE`, `DELETE`) with strict foreign key dependency handling[cite: 4].
+
 ---
 
 ## 📁 Module Directory Structure
@@ -33,10 +39,14 @@ This module covers the core foundations of relational database systems, moving f
 │   ├── README.md
 │   ├── Lab_02.pdf
 │   └── Lab_02_solution.pdf
-└── Day-03-Normalization-and-SQL/
+├── Day-03-Normalization-and-Advanced-SQL/
+│   ├── README.md
+│   ├── Lab_03.jpg
+│   └── Lab_03_solution.sql
+└── Day-04-Advanced-SQL-and-DML/
     ├── README.md
-    ├── Lab_03.jpg
-    └── Lab_03_solution.sql
+    └── Lab_04_solution.sql
+
 ```
 
 
@@ -49,3 +59,4 @@ This module covers the core foundations of relational database systems, moving f
 | **Lab 01** | Conceptual ERD Design |
 | **Lab 02** | Relational Schema Mapping & SQL Server Basics |
 | **Lab 03** | Normalization & SQL |
+| **Lab 04** | Advanced Aggregations & Subqueries |
