@@ -26,6 +26,9 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │       ├── README.md
 │       ├── Lab_02.pdf
 │       └── Lab_02_solution.pdf
+│   └── Day-03-Normalization-and-SQL/
+│       ├── README.md
+│       └── Lab_03_solution.sql
 
 ```
 
