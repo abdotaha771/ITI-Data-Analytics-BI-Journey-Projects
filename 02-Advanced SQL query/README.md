@@ -16,6 +16,11 @@ This module builds on the foundations of relational database design and SQL by a
   - Understanding SQL Server security concepts, including logins, users, roles, and permissions.
   - Creating views for reusable query results.
   - Querying and modifying data in the ITI and AdventureWorks databases.
+- **Day 06 — Stored Procedures and Triggers:**
+  - Creating stored procedures with parameters and control-of-flow logic.
+  - Creating triggers to control data modifications and prevent specific inserts.
+  - Auditing inserts, deletes, and budget updates with user and date information.
+  - Working with the ITI and Company databases.
 
 ---
 
@@ -23,10 +28,13 @@ This module builds on the foundations of relational database design and SQL by a
 
 ```text
 02-Advanced SQL query/
-└── Day-05-Advanced-SQL/
+├── Day-05-Advanced-SQL/
+│   ├── README.md
+│   ├── Lab_05_part1_solution.sql
+│   └── Lab_05_part2_solution.sql
+└── Day-06-Stored-Procedures-and-Triggers/
     ├── README.md
-    ├── Lab_05_part1_solution.sql
-    └── Lab_05_part2_solution.sql
+    └── Lab_06_solution.sql
 
 ```
 
@@ -38,3 +46,4 @@ This module builds on the foundations of relational database design and SQL by a
 | :------------------ | :----------------------------------------------------------------- |
 | **Lab 05 - Part 1** | ITI Database Queries, Aggregations, Null Handling, and Views       |
 | **Lab 05 - Part 2** | AdventureWorks Filtering, Updating, Aggregations, and Date Queries |
+| **Lab 06**          | Stored Procedures, Triggers, and Auditing                          |

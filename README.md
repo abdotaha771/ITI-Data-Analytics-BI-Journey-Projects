@@ -33,10 +33,13 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │       ├── README.md
 │       └── Lab_04_solution.sql
 ├── 02-Advanced SQL query/
-│   └── Day-05-Advanced-SQL/
+│   ├── Day-05-Advanced-SQL/
+│   │   ├── README.md
+│   │   ├── Lab_05_part1_solution.sql
+│   │   └── Lab_05_part2_solution.sql
+│   └── Day-06-Stored-Procedures-and-Triggers/
 │       ├── README.md
-│       ├── Lab_05_part1_solution.sql
-│       └── Lab_05_part2_solution.sql
+│       └── Lab_06_solution.sql
 
 ```
 
