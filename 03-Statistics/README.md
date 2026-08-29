@@ -32,7 +32,9 @@ This module introduces the foundations of statistics for analytics and business 
 │   ├── Lab_07_solution.pdf
 │   └── Lab_07_solution.py
 └── Day-08-Statistical-Analysis-and-Interpretation/
-    └── README.md
+    ├── README.md
+    ├── Lab 08.pdf
+    └── Lab_8_solution.pdf
 ```
 
 ---
@@ -42,4 +44,4 @@ This module introduces the foundations of statistics for analytics and business 
 | Lab        | Focus Topic                                                                                                        |
 | :--------- | :----------------------------------------------------------------------------------------------------------------- |
 | **Lab 07** | Descriptive Statistics on the Titanic dataset: mean, median, mode, variance, standard deviation, and visualization |
-| **Lab 08** | Probability, Correlation, Regression, and Business Interpretation                                                  |
+| **Lab 08** | Probability, distributions, correlation, regression, and business interpretation for analytical decision-making    |

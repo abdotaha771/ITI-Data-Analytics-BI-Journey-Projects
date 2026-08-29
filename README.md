@@ -6,12 +6,9 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 ## Track Objectives & Core Competencies
 
-- **Relational Database Design & SQL:** Conceptual (ERD) & logical data modeling using SQL Server.
+- **Relational Database Design & SQL:** Conceptual (ERD) and logical data modeling using SQL Server.
 - **Advanced Querying & Manipulation:** Complex joins, subqueries, CTEs, window functions, indexing, views, triggers, and execution plans.
-- **Data Warehousing & ETL:** Dimensional modeling, Star/Snowflake schemas, and fact/dimension implementation.
-- **Business Intelligence & Storytelling:** Interactive dashboard design and reporting via Power BI and Tableau.
-- **Advanced Excel Analysis:** Data preparation, advanced formulas, pivot tables, dashboards, and forecasting using Microsoft Excel.
-- **Applied AI in Analytics:** Building custom AI Agents using Generative AI workflows.
+- **Statistics for Analytics:** Descriptive statistics, probability, correlation, regression, and business interpretation using real datasets.
 
 ---
 
@@ -42,9 +39,14 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │       └── Lab_06_solution.sql
 ├── 03-Statistics/
 │   ├── Day-07-Introduction-to-Statistics/
-│   │   └── README.md
+│   │   ├── README.md
+│   │   ├── Lab 07.pdf
+│   │   ├── Lab_07_solution.pdf
+│   │   └── Lab_07_solution.py
 │   └── Day-08-Statistical-Analysis-and-Interpretation/
-│       └── README.md
+│       ├── README.md
+│       ├── Lab 08.pdf
+│       └── Lab_8_solution.pdf
 
 ```
 
@@ -52,16 +54,11 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 ## Course Roadmap & Modules
 
-| Module                                    | Core Topics                                                  | Status      |
-| :---------------------------------------- | :----------------------------------------------------------- | :---------- |
-| **Module 1: Relational DB Design & SQL**  | ERD, Mapping, Constraints, Normalization, SQL                | Finished    |
-| **Module 2: Advanced SQL Query**          | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers     | Finished    |
-| **Module 3: Statistics**                  | Descriptive Statistics, Probability, Correlation, Regression | In Progress |
-| **Module 4: Data Warehousing**            | Dimensional Modeling, Star/Snowflake Schemas                 | Upcoming    |
-| **Module 5: BI & Analytics**              | Power BI & Tableau Enterprise Dashboards                     | Upcoming    |
-| **Module 6: Advanced Excel Analysis**     | Formulas, Pivot Tables, Dashboards, and Forecasting          | Upcoming    |
-| **Module 7: Generative AI & Freelancing** | AI Agents for Analytics, Client Project Delivery             | Upcoming    |
-| **Module 8: Capstone Project**            | End-to-End Enterprise Analytics Pipeline                     | Upcoming    |
+| Module                                   | Core Topics                                                  | Status   |
+| :--------------------------------------- | :----------------------------------------------------------- | :------- |
+| **Module 1: Relational DB Design & SQL** | ERD, Mapping, Constraints, Normalization, SQL                | Finished |
+| **Module 2: Advanced SQL Query**         | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers     | Finished |
+| **Module 3: Statistics**                 | Descriptive Statistics, Probability, Correlation, Regression | Finished |
 
 ---
 
