@@ -40,6 +40,11 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │   └── Day-06-Stored-Procedures-and-Triggers/
 │       ├── README.md
 │       └── Lab_06_solution.sql
+├── 03-Statistics/
+│   ├── Day-07-Introduction-to-Statistics/
+│   │   └── README.md
+│   └── Day-08-Statistical-Analysis-and-Interpretation/
+│       └── README.md
 
 ```
 
@@ -47,15 +52,16 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 ## Course Roadmap & Modules
 
-| Module                                    | Core Topics                                              | Status      |
-| :---------------------------------------- | :------------------------------------------------------- | :---------- |
-| **Module 1: Relational DB Design & SQL**  | ERD, Mapping, Constraints, Normalization, SQL            | Finished    |
-| **Module 2: Advanced SQL Query**          | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers | In Progress |
-| **Module 3: Data Warehousing**            | Dimensional Modeling, Star/Snowflake Schemas             | Upcoming    |
-| **Module 4: BI & Analytics**              | Power BI & Tableau Enterprise Dashboards                 | Upcoming    |
-| **Module 5: Advanced Excel Analysis**     | Formulas, Pivot Tables, Dashboards, and Forecasting      | Upcoming    |
-| **Module 6: Generative AI & Freelancing** | AI Agents for Analytics, Client Project Delivery         | Upcoming    |
-| **Module 7: Capstone Project**            | End-to-End Enterprise Analytics Pipeline                 | Upcoming    |
+| Module                                    | Core Topics                                                  | Status      |
+| :---------------------------------------- | :----------------------------------------------------------- | :---------- |
+| **Module 1: Relational DB Design & SQL**  | ERD, Mapping, Constraints, Normalization, SQL                | Finished    |
+| **Module 2: Advanced SQL Query**          | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers     | Finished    |
+| **Module 3: Statistics**                  | Descriptive Statistics, Probability, Correlation, Regression | In Progress |
+| **Module 4: Data Warehousing**            | Dimensional Modeling, Star/Snowflake Schemas                 | Upcoming    |
+| **Module 5: BI & Analytics**              | Power BI & Tableau Enterprise Dashboards                     | Upcoming    |
+| **Module 6: Advanced Excel Analysis**     | Formulas, Pivot Tables, Dashboards, and Forecasting          | Upcoming    |
+| **Module 7: Generative AI & Freelancing** | AI Agents for Analytics, Client Project Delivery             | Upcoming    |
+| **Module 8: Capstone Project**            | End-to-End Enterprise Analytics Pipeline                     | Upcoming    |
 
 ---
 
