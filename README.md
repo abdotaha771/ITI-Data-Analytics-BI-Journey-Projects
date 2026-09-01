@@ -51,6 +51,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 └── 04-Generative Ai/
     ├── README.md
     └── Day-09-intro generative ai/
+        ├── README.md
         ├── AI_TASK_1/
         │   ├── the prompt.txt
         │   ├── Un_Clean_Data.csv
@@ -65,6 +66,15 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         │       └── Gimini/
         │           ├── Cleaned_Data.csv
         │           └── second prompt.txt
+        └── AI_TASK_2/
+            ├── best model.txt
+            ├── Cleaned_UsedCarsSA_Dataset.xlsx
+            ├── new model.py
+            ├── prompt to know possible steps to make same Cleaning & EDA in excel.docx
+            ├── prompt to make a better version of the project.docx
+            ├── prompt to understand the project.docx
+            ├── UNCLEANED_UsedCarsSA_Unclean_Ar.xlsx
+            └── additional project notes and prompts
 ```
 
 ---

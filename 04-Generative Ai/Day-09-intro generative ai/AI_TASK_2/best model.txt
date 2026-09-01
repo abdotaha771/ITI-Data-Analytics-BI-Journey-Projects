@@ -1,0 +1,10 @@
+--- 5-Fold Cross Validation Benchmarking ---
+Random Forest   | CV R� Score: 0.7651 | CV MAE: 15,946.64 SAR
+LightGBM        | CV R� Score: 0.7741 | CV MAE: 16,799.72 SAR
+XGBoost         | CV R� Score: 0.7626 | CV MAE: 16,193.58 SAR
+
+--- Final Evaluation (Hold-out Test Set) ---
+Winning Model   : LightGBM
+Test R� Score   : 0.8408
+Test MAE        : 14,992.44 SAR
+Test RMSE       : 28,155.18 SAR

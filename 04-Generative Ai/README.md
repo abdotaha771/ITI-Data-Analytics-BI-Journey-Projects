@@ -29,27 +29,41 @@ This module introduces the foundations of generative AI in a practical, hands-on
 ```text
 04-Generative Ai/
 └── Day-09-intro generative ai/
-    └── AI_TASK_1/
-        ├── the prompt.txt
-        ├── Un_Clean_Data.csv
-        └── gen ai/
-            ├── my note.txt
-            ├── chat gpt/
-            │   └── cleaned_data.csv
-            ├── claude/
-            │   └── Cleaned_Data.csv
-            ├── deepseek/
-            │   └── deepseek_csv_20260901_c4b602.csv
-            └── Gimini/
-                ├── Cleaned_Data.csv
-                └── second prompt.txt
+    ├── AI_TASK_1/
+    │   ├── the prompt.txt
+    │   ├── Un_Clean_Data.csv
+    │   └── gen ai/
+    │       ├── my note.txt
+    │       ├── chat gpt/
+    │       │   └── cleaned_data.csv
+    │       ├── claude/
+    │       │   └── Cleaned_Data.csv
+    │       ├── deepseek/
+    │       │   └── deepseek_csv_20260901_c4b602.csv
+    │       └── Gimini/
+    │           ├── Cleaned_Data.csv
+    │           └── second prompt.txt
+    └── AI_TASK_2/
+        ├── best model.txt
+        ├── Cleaned_UsedCarsSA_Dataset.xlsx
+        ├── new model.py
+        ├── prompt to know possible steps to make same Cleaning & EDA in excel.docx
+        ├── prompt to make a better version of the project.docx
+        ├── prompt to understand the project.docx
+        ├── UNCLEANED_UsedCarsSA_Unclean_Ar.xlsx
+        └── additional project notes and prompts
 ```
 
 ---
 
-## Practical Exercise
+## Practical Exercises
 
-The main activity in this module is a data-cleaning task using a raw, messy CSV file. The exercise compares how different AI tools respond to the same prompt and data cleaning challenge.
+This day includes two practical generative AI tasks:
+
+- AI_TASK_1: Data cleaning and normalization using a raw, messy CSV file, comparing outputs from multiple AI tools.
+- AI_TASK_2: AI-assisted used car price prediction workflow, including prompt-based project refinement, dataset cleaning, and model benchmarking.
+
+The first activity focuses on cleaning data with AI guidance, while the second extends the workflow into exploratory data analysis and model evaluation.
 
 ### Exercise Focus
 
