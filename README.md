@@ -9,6 +9,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 - **Relational Database Design & SQL:** Conceptual (ERD) and logical data modeling using SQL Server.
 - **Advanced Querying & Manipulation:** Complex joins, subqueries, CTEs, window functions, indexing, views, triggers, and execution plans.
 - **Statistics for Analytics:** Descriptive statistics, probability, correlation, regression, and business interpretation using real datasets.
+- **Generative AI for Data Workflows:** Introductory prompt engineering, AI-assisted data cleaning, and practical experimentation with generative AI tools.
 
 ---
 
@@ -20,12 +21,12 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │   │   ├── README.md
 │   │   └── Lab_01_solution.pdf
 │   ├── Day-02-Relational-Mapping-and-SQL-Basics/
-│       ├── README.md
-│       ├── Lab_02.pdf
-│       └── Lab_02_solution.pdf
+│   │   ├── README.md
+│   │   ├── Lab_02.pdf
+│   │   └── Lab_02_solution.pdf
 │   ├── Day-03-Normalization-and-SQL/
-│       ├── README.md
-│       └── Lab_03_solution.sql
+│   │   ├── README.md
+│   │   └── Lab_03_solution.sql
 │   └── Day-04-SQL-Operations-&-Referential-DML/
 │       ├── README.md
 │       └── Lab_04_solution.sql
@@ -47,18 +48,35 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │       ├── README.md
 │       ├── Lab 08.pdf
 │       └── Lab_8_solution.pdf
-
+└── 04-Generative Ai/
+    ├── README.md
+    └── Day-09-intro generative ai/
+        ├── AI_TASK_1/
+        │   ├── the prompt.txt
+        │   ├── Un_Clean_Data.csv
+        │   └── gen ai/
+        │       ├── my note.txt
+        │       ├── chat gpt/
+        │       │   └── cleaned_data.csv
+        │       ├── claude/
+        │       │   └── Cleaned_Data.csv
+        │       ├── deepseek/
+        │       │   └── deepseek_csv_20260901_c4b602.csv
+        │       └── Gimini/
+        │           ├── Cleaned_Data.csv
+        │           └── second prompt.txt
 ```
 
 ---
 
 ## Course Roadmap & Modules
 
-| Module                                   | Core Topics                                                  | Status   |
-| :--------------------------------------- | :----------------------------------------------------------- | :------- |
-| **Module 1: Relational DB Design & SQL** | ERD, Mapping, Constraints, Normalization, SQL                | Finished |
-| **Module 2: Advanced SQL Query**         | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers     | Finished |
-| **Module 3: Statistics**                 | Descriptive Statistics, Probability, Correlation, Regression | Finished |
+| Module                                   | Core Topics                                                          | Status   |
+| :--------------------------------------- | :------------------------------------------------------------------- | :------- |
+| **Module 1: Relational DB Design & SQL** | ERD, Mapping, Constraints, Normalization, SQL                        | Finished |
+| **Module 2: Advanced SQL Query**         | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers             | Finished |
+| **Module 3: Statistics**                 | Descriptive Statistics, Probability, Correlation, Regression         | Finished |
+| **Module 4: Generative AI**              | Prompt Engineering, AI-assisted Data Cleaning, GenAI Tool Comparison | Finished |
 
 ---
 
