@@ -10,7 +10,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 - **Advanced Querying & Manipulation:** Complex joins, subqueries, CTEs, window functions, indexing, views, triggers, and execution plans.
 - **Statistics for Analytics:** Descriptive statistics, probability, correlation, regression, and business interpretation using real datasets.
 - **Generative AI for Data Workflows:** Introductory prompt engineering, AI-assisted data cleaning, and practical experimentation with generative AI tools.
-- **ETL with SSIS:** Data extraction, transformation, loading, control flow, data flow, and package validation using SQL Server Integration Services.
+- **ETL and Analysis Services:** Data integration with SSIS and analytical modeling, measures, and KPIs with SSAS.
 
 ---
 
@@ -76,19 +76,25 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
             ├── prompt to understand the project.docx
             ├── UNCLEANED_UsedCarsSA_Unclean_Ar.xlsx
             └── additional project notes and prompts
-└── 05-ETL (SSIS)/
-    └── Day-10-ETL USING SSIS/
+└── 05-ETL and Analysis Services (SSIS & SSAS)/
+    ├── Day-10-ETL USING SSIS/
+    │   ├── README.md
+    │   ├── SSIS lab.docx
+    │   └── LAB OUTPUT/
+    │       ├── ITI.bak
+    │       ├── Test_Backup.bak
+    │       ├── students.txt
+    │       ├── Merged_Course_Merge.txt
+    │       ├── Merged_Course_Union.txt
+    │       ├── task_4_equal_to_30.txt
+    │       ├── task4_greater_than_30.txt
+    │       └── task4_less_than_30.txt
+    └── Day-11-Analysis service SSAS/
         ├── README.md
-        ├── SSIS lab.docx
-        └── LAB OUTPUT/
-            ├── ITI.bak
-            ├── Test_Backup.bak
-            ├── students.txt
-            ├── Merged_Course_Merge.txt
-            ├── Merged_Course_Union.txt
-            ├── task_4_equal_to_30.txt
-            ├── task4_greater_than_30.txt
-            └── task4_less_than_30.txt
+        ├── SSAS LAB.docx
+        ├── kpi_task_2.xlsx
+        ├── sales.bak
+        └── task_4.xlsx
 ```
 
 ---
@@ -101,7 +107,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 | **Module 2: Advanced SQL Query**         | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers             | Finished |
 | **Module 3: Statistics**                 | Descriptive Statistics, Probability, Correlation, Regression         | Finished |
 | **Module 4: Generative AI**              | Prompt Engineering, AI-assisted Data Cleaning, GenAI Tool Comparison | Finished |
-| **Module 5: ETL (SSIS)**                 | Data Flow, Transformations, Merges, Unions, Backups, and Exports     | Finished |
+| **Module 5: ETL and Analysis Services**  | SSIS, SSAS, Data Integration, KPIs, Measures, and Analytical Models  | Finished |
 
 ---
 
