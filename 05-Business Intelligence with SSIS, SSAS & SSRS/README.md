@@ -1,6 +1,6 @@
-# Module 05: ETL and Analysis Services (SSIS & SSAS)
+# Module 05: Business Intelligence with SSIS, SSAS & SSRS
 
-This module covers data integration and business intelligence workflows using SQL Server Integration Services (SSIS) and SQL Server Analysis Services (SSAS). It combines practical ETL package development with analytical modeling, measures, and KPI reporting.
+This module covers end-to-end business intelligence workflows using SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), and SQL Server Reporting Services (SSRS). It combines practical ETL package development, analytical modeling, and report delivery.
 
 ---
 
@@ -12,6 +12,7 @@ This module covers data integration and business intelligence workflows using SQ
 - Use conditional transformations to separate records by business rules.
 - Build and work with SSAS analytical models.
 - Define measures and KPIs for business reporting.
+- Create SSRS reports from prepared datasets.
 - Validate package outputs, analytical results, and database backups.
 
 ---
@@ -27,13 +28,14 @@ This module covers data integration and business intelligence workflows using SQ
 - Testing and validating ETL results.
 - SSAS data models, dimensions, and measure groups.
 - Measures, KPIs, and analytical reporting.
+- SSRS datasets, report layouts, and report outputs.
 
 ---
 
 ## Module Directory Structure
 
 ```text
-05-ETL and Analysis Services (SSIS & SSAS)/
+05-Business Intelligence with SSIS, SSAS & SSRS/
 ├── Day-10-ETL USING SSIS/
 │   ├── README.md
 │   ├── SSIS lab.docx
@@ -52,10 +54,15 @@ This module covers data integration and business intelligence workflows using SQ
     ├── kpi_task_2.xlsx
     ├── sales.bak
     └── task_4.xlsx
+└── Day-12-Report service SSRS/
+    ├── README.md
+    ├── BI_Lab3.docx
+    ├── iti_image.jpeg
+    └── Report*.pdf
 ```
 
 ---
 
 ## Module Outcome
 
-By the end of this module, learners should be able to design a basic SSIS package, apply common data-flow transformations, create an SSAS analytical model with measures and KPIs, and verify the resulting data and reports.
+By the end of this module, learners should be able to design a basic SSIS package, apply common data-flow transformations, create an SSAS analytical model with measures and KPIs, build SSRS reports, and verify the resulting data and reports.

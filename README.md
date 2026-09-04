@@ -1,4 +1,4 @@
-# 📊 Data Analytics & BI Intensive Training (144 Hours) | ITI
+# Data Analytics & BI Intensive Training (144 Hours) | ITI
 
 Repository documentation covering end-to-end coursework, hands-on labs, database modeling, and business intelligence projects completed during the **144-Hour Data Analytics & BI Program** at the Information Technology Institute (ITI).
 
@@ -10,7 +10,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 - **Advanced Querying & Manipulation:** Complex joins, subqueries, CTEs, window functions, indexing, views, triggers, and execution plans.
 - **Statistics for Analytics:** Descriptive statistics, probability, correlation, regression, and business interpretation using real datasets.
 - **Generative AI for Data Workflows:** Introductory prompt engineering, AI-assisted data cleaning, and practical experimentation with generative AI tools.
-- **ETL and Analysis Services:** Data integration with SSIS and analytical modeling, measures, and KPIs with SSAS.
+- **Business Intelligence with SSIS, SSAS & SSRS:** Data integration, analytical modeling, and report development using SQL Server business intelligence services.
 
 ---
 
@@ -76,7 +76,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
             ├── prompt to understand the project.docx
             ├── UNCLEANED_UsedCarsSA_Unclean_Ar.xlsx
             └── additional project notes and prompts
-└── 05-ETL and Analysis Services (SSIS & SSAS)/
+└── 05-Business Intelligence with SSIS, SSAS & SSRS/
     ├── Day-10-ETL USING SSIS/
     │   ├── README.md
     │   ├── SSIS lab.docx
@@ -95,19 +95,24 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         ├── kpi_task_2.xlsx
         ├── sales.bak
         └── task_4.xlsx
+    └── Day-12-Report service SSRS/
+        ├── README.md
+        ├── BI_Lab3.docx
+        ├── iti_image.jpeg
+        └── SSRS report outputs
 ```
 
 ---
 
 ## Course Roadmap & Modules
 
-| Module                                   | Core Topics                                                          | Status   |
-| :--------------------------------------- | :------------------------------------------------------------------- | :------- |
-| **Module 1: Relational DB Design & SQL** | ERD, Mapping, Constraints, Normalization, SQL                        | Finished |
-| **Module 2: Advanced SQL Query**         | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers             | Finished |
-| **Module 3: Statistics**                 | Descriptive Statistics, Probability, Correlation, Regression         | Finished |
-| **Module 4: Generative AI**              | Prompt Engineering, AI-assisted Data Cleaning, GenAI Tool Comparison | Finished |
-| **Module 5: ETL and Analysis Services**  | SSIS, SSAS, Data Integration, KPIs, Measures, and Analytical Models  | Finished |
+| Module                                                     | Core Topics                                                          | Status   |
+| :--------------------------------------------------------- | :------------------------------------------------------------------- | :------- |
+| **Module 1: Relational DB Design & SQL**                   | ERD, Mapping, Constraints, Normalization, SQL                        | Finished |
+| **Module 2: Advanced SQL Query**                           | T-SQL, CTEs, Window Functions, Indexing, Views, Triggers             | Finished |
+| **Module 3: Statistics**                                   | Descriptive Statistics, Probability, Correlation, Regression         | Finished |
+| **Module 4: Generative AI**                                | Prompt Engineering, AI-assisted Data Cleaning, GenAI Tool Comparison | Finished |
+| **Module 5: Business Intelligence with SSIS, SSAS & SSRS** | ETL, Analytical Models, KPIs, Measures, and Reports                  | Finished |
 
 ---
 
