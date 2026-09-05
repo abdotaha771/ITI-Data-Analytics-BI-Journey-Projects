@@ -11,6 +11,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 - **Statistics for Analytics:** Descriptive statistics, probability, correlation, regression, and business interpretation using real datasets.
 - **Generative AI for Data Workflows:** Introductory prompt engineering, AI-assisted data cleaning, and practical experimentation with generative AI tools.
 - **Business Intelligence with SSIS, SSAS & SSRS:** Data integration, analytical modeling, and report development using SQL Server business intelligence services.
+- **Excel for Data Analysis:** Spreadsheet functions, data preparation, and practical analytical workflows using Microsoft Excel.
 
 ---
 
@@ -100,6 +101,11 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         ├── BI_Lab3.docx
         ├── iti_image.jpeg
         └── SSRS report outputs
+└── 06-Excel/
+    └── Day-13-Excel Functions/
+        ├── README.md
+        ├── Lab.xlsx
+        └── Lab_solution.xlsx
 ```
 
 ---
@@ -113,6 +119,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 | **Module 3: Statistics**                                   | Descriptive Statistics, Probability, Correlation, Regression         | Finished |
 | **Module 4: Generative AI**                                | Prompt Engineering, AI-assisted Data Cleaning, GenAI Tool Comparison | Finished |
 | **Module 5: Business Intelligence with SSIS, SSAS & SSRS** | ETL, Analytical Models, KPIs, Measures, and Reports                  | Finished |
+| **Module 6: Excel**                                        | Excel Functions, Data Preparation, and Practical Analysis            | Finished |
 
 ---
 
