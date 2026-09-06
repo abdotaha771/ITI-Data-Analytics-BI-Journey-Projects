@@ -1,6 +1,6 @@
 # Module 06: Excel
 
-This module introduces Microsoft Excel as a practical tool for data preparation, calculation, and analysis. It focuses on applying spreadsheet functions to organize data and produce useful analytical results.
+This module introduces Microsoft Excel as a practical tool for data preparation, calculation, modeling, and analysis. It progresses from spreadsheet functions to an end-to-end AdventureWorks dashboard workflow.
 
 ---
 
@@ -9,7 +9,8 @@ This module introduces Microsoft Excel as a practical tool for data preparation,
 - Use Excel functions to calculate and transform data.
 - Organize worksheets for clear and reliable analysis.
 - Apply formulas to solve common business and analytical tasks.
-- Validate calculated results and present them clearly.
+- Prepare source data and create a date dimension for analysis.
+- Build a simple analytical model and present insights in a dashboard.
 
 ---
 
@@ -18,7 +19,8 @@ This module introduces Microsoft Excel as a practical tool for data preparation,
 - Excel formulas and functions.
 - Data preparation and worksheet organization.
 - Basic analytical calculations.
-- Reviewing and validating spreadsheet results.
+- Data transformation and date dimensions.
+- Data modeling, insights, and dashboard design.
 
 ---
 
@@ -26,14 +28,17 @@ This module introduces Microsoft Excel as a practical tool for data preparation,
 
 ```text
 06-Excel/
-└── Day-13-Excel Functions/
+├── Day-13-Excel Functions/
+│   ├── README.md
+│   ├── Lab.xlsx
+│   └── Lab_solution.xlsx
+└── Day-14-Advanced Excel/
     ├── README.md
-    ├── Lab.xlsx
-    └── Lab_solution.xlsx
+    └── Lab_14_solution.xlsx
 ```
 
 ---
 
 ## Module Outcome
 
-By the end of this module, learners should be able to use Excel functions to prepare data, perform common calculations, and build a clear spreadsheet-based analysis.
+By the end of this module, learners should be able to prepare data, perform calculations, build a basic analytical model, and communicate findings through a clear dashboard.
