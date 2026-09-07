@@ -12,6 +12,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 - **Generative AI for Data Workflows:** Introductory prompt engineering, AI-assisted data cleaning, and practical experimentation with generative AI tools.
 - **Business Intelligence with SSIS, SSAS & SSRS:** Data integration, analytical modeling, and report development using SQL Server business intelligence services.
 - **Excel for Data Analysis:** Spreadsheet functions, data preparation, modeling, insights, and dashboard workflows using Microsoft Excel.
+- **Data Warehousing:** Data warehouse architectures and loading strategies.
 
 ---
 
@@ -109,6 +110,11 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
     └── Day-14-Advanced Excel/
         ├── README.md
         └── Lab_14_solution.xlsx
+└── 07-Data Warehouse/
+    ├── README.md
+    └── Day-15-intro to DWH/
+        ├── README.md
+        └── Lab.txt
 ```
 
 ---
@@ -123,6 +129,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 | **Module 4: Generative AI**                                | Prompt Engineering, AI-assisted Data Cleaning, GenAI Tool Comparison | Finished |
 | **Module 5: Business Intelligence with SSIS, SSAS & SSRS** | ETL, Analytical Models, KPIs, Measures, and Reports                  | Finished |
 | **Module 6: Excel**                                        | Excel Functions, Data Preparation, Modeling, and Dashboards          | Finished |
+| **Module 7: Data Warehouse**                               | Inmon and Kimball Architectures, Full Loads, and Incremental Loads   | Finished |
 
 ---
 
