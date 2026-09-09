@@ -24,9 +24,13 @@ This module introduces the foundations of data warehousing and compares common a
 ```text
 07-Data Warehouse/
 ├── README.md
-└── Day-15-intro to DWH/
+├── Day-15-intro to DWH/
     ├── README.md
     └── Lab.txt
+└── Day-16-DWH/
+    ├── README.md
+    ├── DWH Lab.docx
+    └── Lab_solution.docx
 ```
 
 ---

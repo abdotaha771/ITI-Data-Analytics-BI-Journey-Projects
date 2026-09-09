@@ -112,9 +112,13 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         └── Lab_14_solution.xlsx
 └── 07-Data Warehouse/
     ├── README.md
-    └── Day-15-intro to DWH/
+    ├── Day-15-intro to DWH/
         ├── README.md
         └── Lab.txt
+    └── Day-16-DWH/
+        ├── README.md
+        ├── DWH Lab.docx
+        └── Lab_solution.docx
 ```
 
 ---
