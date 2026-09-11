@@ -13,6 +13,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 - **Business Intelligence with SSIS, SSAS & SSRS:** Data integration, analytical modeling, and report development using SQL Server business intelligence services.
 - **Excel for Data Analysis:** Spreadsheet functions, data preparation, modeling, insights, and dashboard workflows using Microsoft Excel.
 - **Data Warehousing:** Data warehouse architectures and loading strategies.
+- **Tableau for Data Visualization:** Sales analysis, interactive dashboards, and business insight communication using Tableau.
 
 ---
 
@@ -119,6 +120,13 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         ├── README.md
         ├── DWH Lab.docx
         └── Lab_solution.docx
+└── 08-Tableau/
+    └── Day-17-Tableau/
+        ├── README.md
+        ├── Tableau_Lab_01.pdf
+        ├── sample_-_superstore.xls
+        ├── answers.txt
+        └── Lab_solution.twb
 ```
 
 ---
@@ -134,6 +142,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 | **Module 5: Business Intelligence with SSIS, SSAS & SSRS** | ETL, Analytical Models, KPIs, Measures, and Reports                  | Finished |
 | **Module 6: Excel**                                        | Excel Functions, Data Preparation, Modeling, and Dashboards          | Finished |
 | **Module 7: Data Warehouse**                               | Inmon and Kimball Architectures, Full Loads, and Incremental Loads   | Finished |
+| **Module 8: Tableau**                                      | Data Visualization, Dashboards, and Sales Analysis                   | Finished |
 
 ---
 

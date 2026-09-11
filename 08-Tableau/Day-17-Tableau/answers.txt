@@ -1,0 +1,19 @@
+1. Which Region generates the highest Sales? Is it also the most profitable Region?
+
+- West is the highest and it also the most profitable region
+
+2. Which Sub-Category creates the largest loss?
+
+- Tables sub-categoty has the largest loss
+
+3. Which State has strong Sales but weak or negative Profit?
+
+- Texas
+
+4. Which Segment contributes the most Sales?
+
+- Consumer Segment
+
+5. What is the clearest pattern you notice in the monthly Sales trend?
+
+- the last quarter of the year achieves the most sales but followed by a significant drop at the beginning of the following year
