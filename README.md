@@ -121,11 +121,18 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         ├── DWH Lab.docx
         └── Lab_solution.docx
 └── 08-Tableau/
-    └── Day-17-Tableau/
+    ├── Day-17-Tableau/
+    │   ├── README.md
+    │   ├── Tableau_Lab_01.pdf
+    │   ├── sample_-_superstore.xls
+    │   ├── answers.txt
+    │   └── Lab_solution.twb
+    └── Day-18-Advanced Tableau/
         ├── README.md
-        ├── Tableau_Lab_01.pdf
-        ├── sample_-_superstore.xls
+        ├── Tableau_Lab.pdf
         ├── answers.txt
+        ├── dashboard image.png
+        ├── dash_background.png
         └── Lab_solution.twb
 ```
 

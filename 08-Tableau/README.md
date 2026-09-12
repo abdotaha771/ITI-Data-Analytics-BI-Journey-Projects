@@ -26,16 +26,23 @@ This module introduces Tableau for interactive data visualization, dashboard dev
 
 ```text
 08-Tableau/
-└── Day-17-Tableau/
-    ├── README.md
-    ├── Tableau_Lab_01.pdf
-    ├── sample_-_superstore.xls
-    ├── answers.txt
-    └── Lab_solution.twb
+├── Day-17-Tableau/
+│   ├── README.md
+│   ├── Tableau_Lab_01.pdf
+│   ├── sample_-_superstore.xls
+│   ├── answers.txt
+│   └── Lab_solution.twb
+├── Day-18-Advanced Tableau/
+│   ├── README.md
+│   ├── Tableau_Lab.pdf
+│   ├── answers.txt
+│   ├── dashboard image.png
+│   ├── dash_background.png
+│   └── Lab_solution.twb
 ```
 
 ---
 
 ## Module Outcome
 
-By the end of this module, learners should be able to use Tableau to create visual analyses, identify business trends, and communicate findings through an interactive workbook.
+By the end of this module, learners should be able to use Tableau to create visual analyses, identify business trends, and communicate findings through interactive dashboards and advanced business-performance storytelling.

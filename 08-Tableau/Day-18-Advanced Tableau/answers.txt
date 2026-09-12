@@ -1,0 +1,22 @@
+1. Which Region/Sub-Category combinations have the weakest Profit Margin?
+
+- East & Table
+
+2. Can you identify a high-sales customer who is generating a loss?
+
+- Sean Miller achieves 24,226 sales but -2,077 profit
+
+3. Which Ship Mode has the longest average Shipping Days?
+
+- Standard Class ship mode
+
+4. How does the ranking of Sub-Categories change when you switch between Sales and Profit?
+
+- the ranking shifts significantly depending on the metric selected. For example while chairs generates the highest sales copiers takes the top spot for Profit with most other sub-categories also changing their positions
+
+5. What management action would you recommend based on your dashboard?
+
+- reduce or stop discounts for high sales customers who are generating losses
+- re-evaluate the pricing and cost structure of Bookcases as they consistently lose money across multiple regions
+- Investigate costs or increase prices for furnishings in the Central region due to their severe negative profit margin (-25.6%)
+- discontinue or restructure Tables: The Tables sub-category is severely unprofitable across almost all regions with profit margins dropping as low as -27.8% in the East region Management must urgently investigate excessive discounts and shipping costs or consider dropping this product line entirely
