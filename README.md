@@ -14,6 +14,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 - **Excel for Data Analysis:** Spreadsheet functions, data preparation, modeling, insights, and dashboard workflows using Microsoft Excel.
 - **Data Warehousing:** Data warehouse architectures and loading strategies.
 - **Tableau for Data Visualization:** Sales analysis, interactive dashboards, and business insight communication using Tableau.
+- **Freelancing:** Freelance career preparation, platform onboarding, and finding a suitable freelance path through the Mahara Tech track.
 
 ---
 
@@ -134,6 +135,14 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         ├── dashboard image.png
         ├── dash_background.png
         └── Lab_solution.twb
+└── 09-Freelancing/
+    └── Day-19 & 20 & 21/
+        ├── README.md
+        ├── Find Your Freelance Fit.pdf
+        ├── Freelancing Basics
+        ├── Getting started as a freelancer (khamsat)
+        ├── Getting started as a freelancer (Mostaql)
+        └── Getting started as a freelancer (Upwork)
 ```
 
 ---
@@ -150,6 +159,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 | **Module 6: Excel**                                        | Excel Functions, Data Preparation, Modeling, and Dashboards          | Finished |
 | **Module 7: Data Warehouse**                               | Inmon and Kimball Architectures, Full Loads, and Incremental Loads   | Finished |
 | **Module 8: Tableau**                                      | Data Visualization, Dashboards, and Sales Analysis                   | Finished |
+| **Module 9: Freelancing**                                  | Freelancing Basics, Platform Onboarding, and Career Direction        | Finished |
 
 ---
 
