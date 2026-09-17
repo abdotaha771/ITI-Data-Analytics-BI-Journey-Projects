@@ -15,6 +15,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 - **Data Warehousing:** Data warehouse architectures and loading strategies.
 - **Tableau for Data Visualization:** Sales analysis, interactive dashboards, and business insight communication using Tableau.
 - **Freelancing:** Freelance career preparation, platform onboarding, and finding a suitable freelance path through the Mahara Tech track.
+- **Power BI:** Power Query transformations, dimensional modeling, fact tables, relationships, and report-ready datasets.
 
 ---
 
@@ -143,6 +144,11 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         ├── Getting started as a freelancer (khamsat)
         ├── Getting started as a freelancer (Mostaql)
         └── Getting started as a freelancer (Upwork)
+└── 10-Power bi/
+    └── Day-22-power bi/
+        ├── README.md
+        ├── 2_facts_data_model.png
+        └── Lab_solution.pbix
 ```
 
 ---
@@ -160,6 +166,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 | **Module 7: Data Warehouse**                               | Inmon and Kimball Architectures, Full Loads, and Incremental Loads   | Finished |
 | **Module 8: Tableau**                                      | Data Visualization, Dashboards, and Sales Analysis                   | Finished |
 | **Module 9: Freelancing**                                  | Freelancing Basics, Platform Onboarding, and Career Direction        | Finished |
+| **Module 10: Power BI**                                    | Power Query, Data Modeling, Fact Tables, and Dimensions              | Finished |
 
 ---
 
