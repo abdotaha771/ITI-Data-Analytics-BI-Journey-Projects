@@ -11,7 +11,7 @@ Create one overview page that answers the following questions:
 - How much revenue was generated?
 - How many orders and units were sold?
 - How does sales performance change over time?
-- Which territories, top 10 product , and group contribute most to performance?
+- Which territories, top 10 products, and groups contribute most to performance?
 
 The dashboard should remain useful at both the overall level and after applying any combination of slicers.
 
@@ -26,6 +26,16 @@ Add cards for:
 
 Use measures rather than implicit visual aggregations so the KPI definitions remain consistent across the report.
 
+## Required Visuals
+
+Use the supplied [background dashboard.png](background%20dashboard.png) as the page layout guide and add visuals for:
+
+- Sales trend by year and month
+- Sales by territory or region
+- Top 10 products
+- Sales by group or salesperson
+
+All visuals must use the shared dimensions from the Day 22 model and respond to the report filters.
 
 
 ## Files
