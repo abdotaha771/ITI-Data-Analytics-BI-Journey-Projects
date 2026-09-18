@@ -24,6 +24,8 @@ This module introduces Power BI as a complete workflow for preparing data, desig
 - Relationships between facts and shared dimensions.
 - Sales headers and sales details modeling.
 - Building a report-ready semantic model.
+- Building an overview dashboard with KPI cards, slicers, and report filters.
+- Applying interactive cross-filtering to communicate sales performance.
 
 ---
 
@@ -31,9 +33,13 @@ This module introduces Power BI as a complete workflow for preparing data, desig
 
 ```text
 10-Power bi/
-└── Day-22-power bi/
+├── Day-22-power bi/
+│   ├── README.md
+│   ├── 2_facts_data_model.png
+│   └── Lab_solution.pbix
+└── Day-23-power bi dashboard/
     ├── README.md
-    ├── 2_facts_data_model.png
+    ├── background dashboard.png
     └── Lab_solution.pbix
 ```
 
@@ -43,6 +49,8 @@ The instructor demonstrated a solution based on one fact table and explained the
 - `fact_sales_details` stores line-level sales information.
 
 Both fact tables use shared dimensions such as customer, date, product, salesperson, and territory. This makes the grain of each table more explicit while allowing common filters to be used across the sales model.
+
+Day 23 uses this model to build an interactive overview dashboard with KPI cards, sales visuals, date and business-dimension slicers, and report-level filtering.
 
 No separate lab handout was provided because the instructor developed the transformations and model during the session.
 

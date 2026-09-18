@@ -145,9 +145,13 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
         ├── Getting started as a freelancer (Mostaql)
         └── Getting started as a freelancer (Upwork)
 └── 10-Power bi/
-    └── Day-22-power bi/
+    ├── Day-22-power bi/
+    │   ├── README.md
+    │   ├── 2_facts_data_model.png
+    │   └── Lab_solution.pbix
+    └── Day-23-power bi dashboard/
         ├── README.md
-        ├── 2_facts_data_model.png
+        ├── background dashboard.png
         └── Lab_solution.pbix
 ```
 
@@ -166,7 +170,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 | **Module 7: Data Warehouse**                               | Inmon and Kimball Architectures, Full Loads, and Incremental Loads   | Finished |
 | **Module 8: Tableau**                                      | Data Visualization, Dashboards, and Sales Analysis                   | Finished |
 | **Module 9: Freelancing**                                  | Freelancing Basics, Platform Onboarding, and Career Direction        | Finished |
-| **Module 10: Power BI**                                    | Power Query, Data Modeling, Fact Tables, and Dimensions              | Finished |
+| **Module 10: Power BI**                                    | Power Query, Data Modeling, Fact Tables, Dimensions, and Dashboards  | Finished |
 
 ---
 
