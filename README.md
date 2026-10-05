@@ -55,108 +55,108 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │       ├── Lab 08.pdf
 │       └── Lab_8_solution.pdf
 ├── 04-Generative Ai/
-    ├── README.md
-    ├── Day-09-intro generative ai/
-        ├── README.md
-        ├── AI_TASK_1/
-        │   ├── the prompt.txt
-        │   ├── Un_Clean_Data.csv
-        │   └── gen ai/
-        │       ├── my note.txt
-        │       ├── chat gpt/
-        │       │   └── cleaned_data.csv
-        │       ├── claude/
-        │       │   └── Cleaned_Data.csv
-        │       ├── deepseek/
-        │       │   └── deepseek_csv_20260901_c4b602.csv
-        │       └── Gimini/
-        │           ├── Cleaned_Data.csv
-        │           └── second prompt.txt
-        └── AI_TASK_2/
-            ├── best model.txt
-            ├── Cleaned_UsedCarsSA_Dataset.xlsx
-            ├── new model.py
-            ├── prompt to know possible steps to make same Cleaning & EDA in excel.docx
-            ├── prompt to make a better version of the project.docx
-            ├── prompt to understand the project.docx
-            ├── UNCLEANED_UsedCarsSA_Unclean_Ar.xlsx
-            └── additional project notes and prompts
-    └── Day-25-n8n/
-        └── README.md
-└── 05-Business Intelligence with SSIS, SSAS & SSRS/
-    ├── Day-10-ETL USING SSIS/
-    │   ├── README.md
-    │   ├── SSIS lab.docx
-    │   └── LAB OUTPUT/
-    │       ├── ITI.bak
-    │       ├── Test_Backup.bak
-    │       ├── students.txt
-    │       ├── Merged_Course_Merge.txt
-    │       ├── Merged_Course_Union.txt
-    │       ├── task_4_equal_to_30.txt
-    │       ├── task4_greater_than_30.txt
-    │       └── task4_less_than_30.txt
-    └── Day-11-Analysis service SSAS/
-        ├── README.md
-        ├── SSAS LAB.docx
-        ├── kpi_task_2.xlsx
-        ├── sales.bak
-        └── task_4.xlsx
-    └── Day-12-Report service SSRS/
-        ├── README.md
-        ├── BI_Lab3.docx
-        ├── iti_image.jpeg
-        └── SSRS report outputs
-└── 06-Excel/
-    ├── Day-13-Excel Functions/
-    │   ├── README.md
-    │   ├── Lab.xlsx
-    │   └── Lab_solution.xlsx
-    └── Day-14-Advanced Excel/
-        ├── README.md
-        └── Lab_14_solution.xlsx
-└── 07-Data Warehouse/
-    ├── README.md
-    ├── Day-15-intro to DWH/
-        ├── README.md
-        └── Lab.txt
-    └── Day-16-DWH/
-        ├── README.md
-        ├── DWH Lab.docx
-        └── Lab_solution.docx
-└── 08-Tableau/
-    ├── Day-17-Tableau/
-    │   ├── README.md
-    │   ├── Tableau_Lab_01.pdf
-    │   ├── sample_-_superstore.xls
-    │   ├── answers.txt
-    │   └── Lab_solution.twb
-    └── Day-18-Advanced Tableau/
-        ├── README.md
-        ├── Tableau_Lab.pdf
-        ├── answers.txt
-        ├── dashboard image.png
-        ├── dash_background.png
-        └── Lab_solution.twb
-└── 09-Freelancing/
-    └── Day-19 & 20 & 21/
-        ├── README.md
-        ├── Find Your Freelance Fit.pdf
-        ├── Freelancing Basics
-        ├── Getting started as a freelancer (khamsat)
-        ├── Getting started as a freelancer (Mostaql)
-        └── Getting started as a freelancer (Upwork)
-└── 10-Power bi/
-    ├── Day-22-power bi/
-    │   ├── README.md
-    │   ├── 2_facts_data_model.png
-    │   └── Lab_solution.pbix
-    ├── Day-23-power bi dashboard/
-        ├── README.md
-        ├── background dashboard.png
-        └── Lab_solution.pbix
-    └── Day-24-power bi/
-        └── README.md
+│   ├── README.md
+│   ├── Day-09-intro generative ai/
+│   │   ├── README.md
+│   │   ├── AI_TASK_1/
+│   │   │   ├── the prompt.txt
+│   │   │   ├── Un_Clean_Data.csv
+│   │   │   └── gen ai/
+│   │   │       ├── my note.txt
+│   │   │       ├── chat gpt/
+│   │   │       │   └── cleaned_data.csv
+│   │   │       ├── claude/
+│   │   │       │   └── Cleaned_Data.csv
+│   │   │       ├── deepseek/
+│   │   │       │   └── deepseek_csv_20260901_c4b602.csv
+│   │   │       └── Gimini/
+│   │   │           ├── Cleaned_Data.csv
+│   │   │           └── second prompt.txt
+│   │   └── AI_TASK_2/
+│   │       ├── best model.txt
+│   │       ├── Cleaned_UsedCarsSA_Dataset.xlsx
+│   │       ├── new model.py
+│   │       ├── prompt to know possible steps to make same Cleaning & EDA in excel.docx
+│   │       ├── prompt to make a better version of the project.docx
+│   │       ├── prompt to understand the project.docx
+│   │       ├── UNCLEANED_UsedCarsSA_Unclean_Ar.xlsx
+│   │       └── additional project notes and prompts
+│   └── Day-25-n8n/
+│       └── README.md
+├── 05-Business Intelligence with SSIS, SSAS & SSRS/
+│   ├── Day-10-ETL USING SSIS/
+│   │   ├── README.md
+│   │   ├── SSIS lab.docx
+│   │   └── LAB OUTPUT/
+│   │       ├── ITI.bak
+│   │       ├── Test_Backup.bak
+│   │       ├── students.txt
+│   │       ├── Merged_Course_Merge.txt
+│   │       ├── Merged_Course_Union.txt
+│   │       ├── task_4_equal_to_30.txt
+│   │       ├── task4_greater_than_30.txt
+│   │       └── task4_less_than_30.txt
+│   ├── Day-11-Analysis service SSAS/
+│   │   ├── README.md
+│   │   ├── SSAS LAB.docx
+│   │   ├── kpi_task_2.xlsx
+│   │   ├── sales.bak
+│   │   └── task_4.xlsx
+│   └── Day-12-Report service SSRS/
+│       ├── README.md
+│       ├── BI_Lab3.docx
+│       ├── iti_image.jpeg
+│       └── SSRS report outputs
+├── 06-Excel/
+│   ├── Day-13-Excel Functions/
+│   │   ├── README.md
+│   │   ├── Lab.xlsx
+│   │   └── Lab_solution.xlsx
+│   └── Day-14-Advanced Excel/
+│       ├── README.md
+│       └── Lab_14_solution.xlsx
+├── 07-Data Warehouse/
+│   ├── README.md
+│   ├── Day-15-intro to DWH/
+│   │   ├── README.md
+│   │   └── Lab.txt
+│   └── Day-16-DWH/
+│       ├── README.md
+│       ├── DWH Lab.docx
+│       └── Lab_solution.docx
+├── 08-Tableau/
+│   ├── Day-17-Tableau/
+│   │   ├── README.md
+│   │   ├── Tableau_Lab_01.pdf
+│   │   ├── sample_-_superstore.xls
+│   │   ├── answers.txt
+│   │   └── Lab_solution.twb
+│   └── Day-18-Advanced Tableau/
+│       ├── README.md
+│       ├── Tableau_Lab.pdf
+│       ├── answers.txt
+│       ├── dashboard image.png
+│       ├── dash_background.png
+│       └── Lab_solution.twb
+├── 09-Freelancing/
+│   └── Day-19 & 20 & 21/
+│       ├── README.md
+│       ├── Find Your Freelance Fit.pdf
+│       ├── Freelancing Basics
+│       ├── Getting started as a freelancer (khamsat)
+│       ├── Getting started as a freelancer (Mostaql)
+│       └── Getting started as a freelancer (Upwork)
+├── 10-Power bi/
+│   ├── Day-22-power bi/
+│   │   ├── README.md
+│   │   ├── 2_facts_data_model.png
+│   │   └── Lab_solution.pbix
+│   ├── Day-23-power bi dashboard/
+│   │   ├── README.md
+│   │   ├── background dashboard.png
+│   │   └── Lab_solution.pbix
+│   └── Day-24-power bi/
+│       └── README.md
 └── Case_Study/
     ├── README.md
     ├── ITI_Statistics_CaseStudy.pdf
