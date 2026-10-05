@@ -1,0 +1,106 @@
+PART D – DOES COMMUTING ACTUALLY HURT PERFORMANCE?
+Summary of Requirements, Implementation, and Results
+
+1. D1 – LOOK BEFORE YOU CALCULATE
+Requirements:
+- Draw a scatter plot with commute_minutes on the X-axis and final_score on the Y-axis.
+- Describe the direction and strength of the relationship.
+- Calculate the correlation between commute_minutes and final_score.
+- Calculate correlations between study_hours_weekly and final_score, and sleep_hours and final_score.
+- Rank the relationships by strength.
+
+Implementation:
+- A scatter plot was created in Power BI for commute_minutes vs final_score.
+- Correlation measures were created for commute time, study hours, and sleep hours.
+
+Results:
+- Commute time vs final score: r = -0.11 → weak negative correlation.
+- Study hours per week vs final score: r = 0.35 → strongest relationship, positive.
+- Sleep hours vs final score: r = 0.02 → almost no linear relationship.
+
+Ranking by strength:
+1. Study hours vs final score: 0.35 (strongest of the three)
+2. Commute time vs final score: -0.11 (weak negative)
+3. Sleep hours vs final score: 0.02 (almost no linear relationship)
+
+Interpretation:
+Study hours are more strongly associated with final score than commute time. The commute relationship is weak, so it should not be overstated.
+
+
+2. D2 – THE CAUSATION QUESTION
+Question:
+Does the negative correlation prove that long commutes cause lower scores?
+
+Answer:
+No. Correlation does not prove causation. The result only shows that students with longer commute times tend to have slightly lower final scores.
+
+Alternative explanations:
+- Distance / socioeconomic factors: students living farther away may have different access to educational resources or study support.
+- Time available for studying: students with long commutes may have less time for studying and homework. In this case, study time could be more important than commuting itself.
+
+Evidence needed to establish causation:
+A randomized controlled study would provide stronger evidence. Students could be randomly assigned to locations/branches with different commute times, while collecting information such as study hours, previous academic performance, socioeconomic background, distance from home, attendance, and access to educational resources.
+
+
+3. D3 – COMPARE TWO GROUPS PROPERLY
+Requirements:
+- Divide students into short-commute and long-commute groups using a threshold such as the median, Q3, or an IQR fence.
+- Compare final_score between the groups using:
+  * Mean
+  * Median
+  * Standard deviation
+- Compare the gap between group means with the spread within the groups.
+- Explain sampling variability.
+
+Implementation:
+- A Commute_Group field was created to compare the two commute groups.
+- A Power BI table was created containing:
+  * Commute_Group
+  * Average_Final_Score
+  * Std_Dev_Final_Score
+  * Median_Final_Score
+- Additional measures were created for:
+  * Mean_Gap
+  * Average_SD
+  * Gap_to_SD
+- A clustered column chart was also created to compare the average final score of the two groups.
+
+Result/interpretation:
+The report is designed to compare the difference between group means with the standard deviation within the groups. A small mean gap compared with the within-group standard deviation indicates a limited practical difference.
+
+Important statistical conclusion:
+This analysis uses a sample rather than the entire ITI population. If the survey were repeated with different students, the exact gap would likely change. This variation is related to sampling variability / sampling error.
+
+
+4. D4 – CHOOSE THE RIGHT GRAPH
+Implemented choices:
+
+A. Shape of commute-time distribution across students
+- Graph: Histogram
+- Reason: commute time is a univariate quantitative variable, and a histogram shows its distribution and shape.
+
+B. Commute times concentrated at the low end with a long tail
+- Graph: Histogram
+- Reason: a histogram clearly shows the right-skewed distribution and long tail.
+
+C. Side-by-side comparison of commute time across the five branches
+- Graph: Boxplot
+- Reason: this compares a quantitative variable across a qualitative variable.
+
+D. Relationship between study hours and final score
+- Graph: Scatter plot
+- Reason: this is a bivariate relationship between two quantitative variables.
+
+E. Number of students at satisfaction levels 1–5
+- Graph: Bar chart
+- Reason: satisfaction level is a univariate qualitative/ordinal variable.
+
+F. Breakdown of preferred transport modes
+- Graph: Bar chart
+- Reason: transport mode is a univariate qualitative variable.
+
+
+OVERALL CONCLUSION
+The analysis does NOT provide evidence that commuting itself causes lower performance. Commute time has only a weak negative correlation with final score (r = -0.11). Study hours have a noticeably stronger positive relationship with final score (r = 0.35), while sleep hours have almost no linear relationship (r = 0.02).
+
+Therefore, the data suggests that study time may be a more relevant factor to investigate than commute time. However, these are observational relationships and cannot by themselves establish causation.

@@ -56,7 +56,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 │       └── Lab_8_solution.pdf
 ├── 04-Generative Ai/
     ├── README.md
-    └── Day-09-intro generative ai/
+    ├── Day-09-intro generative ai/
         ├── README.md
         ├── AI_TASK_1/
         │   ├── the prompt.txt
@@ -81,6 +81,8 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
             ├── prompt to understand the project.docx
             ├── UNCLEANED_UsedCarsSA_Unclean_Ar.xlsx
             └── additional project notes and prompts
+    └── Day-25-n8n/
+        └── README.md
 └── 05-Business Intelligence with SSIS, SSAS & SSRS/
     ├── Day-10-ETL USING SSIS/
     │   ├── README.md
@@ -149,10 +151,24 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
     │   ├── README.md
     │   ├── 2_facts_data_model.png
     │   └── Lab_solution.pbix
-    └── Day-23-power bi dashboard/
+    ├── Day-23-power bi dashboard/
         ├── README.md
         ├── background dashboard.png
         └── Lab_solution.pbix
+    └── Day-24-power bi/
+        └── README.md
+└── Case_Study/
+    ├── README.md
+    ├── ITI_Statistics_CaseStudy.pdf
+    ├── data.xlsx
+    ├── part_C.py
+    ├── PART_C_ANYLYSIS_RESULT_&_ANSWERS.txt
+    ├── part_D.pbix
+    ├── PART_D_ANYLYSIS_RESULT_&_ANSWERS.txt
+    ├── part_E.py
+    ├── PART_E_ANALYSIS_RESULT_&_ANSWERS.txt
+    ├── PART_F_RECOMMENDATION.txt
+    └── MAIN_THREE_QUESTIONS_ANSWERS.txt
 ```
 
 ---
@@ -171,6 +187,11 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 | **Module 8: Tableau**                                      | Data Visualization, Dashboards, and Sales Analysis                   | Finished |
 | **Module 9: Freelancing**                                  | Freelancing Basics, Platform Onboarding, and Career Direction        | Finished |
 | **Module 10: Power BI**                                    | Power Query, Data Modeling, Fact Tables, Dimensions, and Dashboards  | Finished |
+| **Case Study**                                             | Statistical analysis, Power BI, and recommendations                  | Finished |
+
+### Case Study Contribution
+
+The Case Study was completed as a team project. My individual contributions were **Part C**, **Part E**, and **Part F**. **Parts A, B, and D were completed by other team members**. See the [Case Study README](Case_Study/README.md) for the file-by-file ownership breakdown.
 
 ---
 

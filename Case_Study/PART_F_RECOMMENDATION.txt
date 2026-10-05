@@ -1,0 +1,24 @@
+Part F — The recommendation
+================================
+
+THE ANSWER
+----------
+Run a modified version of the policy: provide limited online access first to students whose one-way commute is more than 90 minutes, rather than introducing a blanket policy for every student.
+
+THE EVIDENCE
+------------
+The typical commute is 33.05 minutes (the median), while the mean is higher at 45.30 minutes because a smaller group has very long journeys. Cairo has the highest branch mean at 60.35 minutes, and 12 of the 15 unusually long commutes are from Cairo. Commute time has only a weak reported relationship with final score (r = -0.11), while study hours have the stronger relationship (r = 0.35). As a robustness check, the median-split score gap was only 0.4 points (78.5 versus 78.9), compared with about 9.8 points of within-group standard deviation.
+
+WHO QUALIFIES
+-------------
+Use more than 90 minutes as the initial online-support threshold. This includes 23 of the 254 students with recorded commute times (9.1%), keeping the first stage affordable and focused on the students facing the greatest burden. If the pilot works, expand the threshold to more than 60 minutes, which would cover 60 students (23.6%).
+
+WHAT WE CANNOT CONCLUDE
+-----------------------
+The data does not show that commuting itself causes lower scores. The relationships are observational and may reflect study time, distance, branch, resources, or other differences between students. The sample is also a voluntary-response sample, not a random sample of all 2,000 ITI students: Cairo is overrepresented, and missing values are more concentrated there (14.0% versus 5.6% in Alexandria). Therefore, the results should guide a targeted pilot, not be treated as a precise estimate for every ITI student.
+
+WHAT WE SHOULD DO NEXT
+----------------------
+Run the targeted policy as a monitored pilot for the approximately 10% with commutes over 90 minutes. Before and after the pilot, record commute time, attendance, study hours, final scores, cost, and non-response by branch. For stronger evidence, select students using proportional stratified random sampling across the five branches and compare supported students with a clearly defined comparison group.
+
+Decision in one sentence: support the students facing the longest commutes, measure whether the support improves attendance and performance, and do not claim that commute time alone causes low scores.

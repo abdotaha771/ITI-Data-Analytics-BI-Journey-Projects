@@ -21,6 +21,7 @@ This module introduces the foundations of generative AI in a practical, hands-on
 - Structured output generation from raw data.
 - Comparing results across multiple AI models.
 - Practical data tasks using generative AI workflows.
+- Workflow automation with n8n and AI services.
 
 ---
 
@@ -28,7 +29,7 @@ This module introduces the foundations of generative AI in a practical, hands-on
 
 ```text
 04-Generative Ai/
-└── Day-09-intro generative ai/
+├── Day-09-intro generative ai/
     ├── AI_TASK_1/
     │   ├── the prompt.txt
     │   ├── Un_Clean_Data.csv
@@ -52,6 +53,8 @@ This module introduces the foundations of generative AI in a practical, hands-on
         ├── prompt to understand the project.docx
         ├── UNCLEANED_UsedCarsSA_Unclean_Ar.xlsx
         └── additional project notes and prompts
+└── Day-25-n8n/
+    └── README.md
 ```
 
 ---
@@ -64,6 +67,8 @@ This day includes two practical generative AI tasks:
 - AI_TASK_2: AI-assisted used car price prediction workflow, including prompt-based project refinement, dataset cleaning, and model benchmarking.
 
 The first activity focuses on cleaning data with AI guidance, while the second extends the workflow into exploratory data analysis and model evaluation.
+
+Day 25 introduces n8n and explores how workflow automation can connect applications, APIs, data sources, and generative AI services.
 
 ### Exercise Focus
 

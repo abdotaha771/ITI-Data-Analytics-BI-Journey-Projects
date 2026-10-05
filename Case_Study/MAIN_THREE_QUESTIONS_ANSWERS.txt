@@ -1,0 +1,18 @@
+Part F — Answers to the Academic Director's three questions
+==============================================================
+
+1. Is the commute problem real, and how big is it?
+----------------------------------------------------
+Yes, the problem is real, but it does not affect every student equally. The typical commute is 33.05 minutes (the median), while the mean is 45.30 minutes because a smaller group has much longer journeys. Cairo has the highest branch mean at 60.35 minutes, and 12 of the 15 unusually long commutes are from Cairo.
+
+2. Does commuting actually hurt performance?
+----------------------------------------------
+The data does not prove that commuting itself causes lower scores. The reported correlation between commute time and final score is weak (r = -0.11). Study hours have a stronger relationship with final score (r = 0.35). A median-split check also found only a 0.4-point score gap between the two commute groups, compared with about 9.8 points of within-group variation. Therefore, commuting should not be presented as the sole cause of low performance.
+
+3. If we run the policy, who qualifies?
+----------------------------------------
+Run a low-cost pilot for students whose one-way commute is more than 90 minutes. This covers 23 of the 254 students with recorded commute times (9.1%). If the pilot improves attendance or performance at an acceptable cost, expand eligibility to students commuting more than 60 minutes, which would cover 60 students (23.6%).
+
+Recommendation
+--------------
+Run the targeted pilot, measure attendance, study hours, final scores, and cost, and use proportional stratified random sampling in the next survey. Because the current sample is voluntary and Cairo is overrepresented, the results should guide a pilot rather than be treated as proof for all 2,000 students.

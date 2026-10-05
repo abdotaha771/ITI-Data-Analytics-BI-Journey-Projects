@@ -37,10 +37,12 @@ This module introduces Power BI as a complete workflow for preparing data, desig
 │   ├── README.md
 │   ├── 2_facts_data_model.png
 │   └── Lab_solution.pbix
-└── Day-23-power bi dashboard/
+├── Day-23-power bi dashboard/
     ├── README.md
     ├── background dashboard.png
     └── Lab_solution.pbix
+└── Day-24-power bi/
+    └── README.md
 ```
 
 The instructor demonstrated a solution based on one fact table and explained the related Power Query transformations and data-model design. The submitted solution extends that idea by using two fact tables:

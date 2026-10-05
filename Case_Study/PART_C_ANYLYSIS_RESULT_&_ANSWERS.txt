@@ -1,0 +1,108 @@
+Part C — Describe what you have
+====================
+
+Main question: is the commute problem real, and how big is it?
+======================================================================
+
+The commute problem is real, but the claim that most students travel about an hour is not true for the typical student. The median commute is 33.05 minutes, while the mean is 45.30 minutes. This difference matters because the mean is being pulled upward by a smaller group of students with much longer trips, especially from Cairo.
+
+
+
+Summary:
+The overall evidence shows that the commute issue exists, but it is not a problem for most students in the same way the headline claim suggests. Most students commute around 33 minutes, while a smaller group of students have much longer journeys, which is why the average rises to 45.30 minutes.
+
+4. Part C — Describe what you have
+
+C1. The headline number
+
+Compute, for commute_minutes across all cleaned rows: the mean, the median, the mode, the range, the standard deviation, Q1, Q3, and the IQR.
+
+Verified results from the dataset:
+- Mean: 45.30 minutes
+- Median: 33.05 minutes
+- Mode: 16.10, 25.90, and 37.20 minutes
+- Minimum: 5.00 minutes
+- Maximum: 256.50 minutes
+- Range: 251.50 minutes
+- Standard deviation: 39.58 minutes
+- Q1: 20.38 minutes
+- Q3: 58.35 minutes
+- IQR: 37.98 minutes
+
+Interpretation:
+The mean and median are clearly different, which tells us the data is not centered around one single typical value. The mean is 45.30 minutes, but the median is only 33.05 minutes. This gap tells us the distribution is skewed to the right and is being pulled upward by a minority of very long commutes.
+
+The mode is not very informative here because the data is not strongly concentrated at one exact time; there are several values that repeat, which is consistent with a spread-out distribution rather than one neat central value. The range is very large (251.50 minutes), and the standard deviation is also large (39.58 minutes), showing that the commute times vary substantially across students.
+
+The key message is: the claim that students travel about an hour is not true for the typical student. The median shows the typical student travels around 33 minutes, not 60 minutes. The mean is higher because a smaller number of students have much longer trips, especially from Cairo.
+
+C2. Which average should you report?
+
+You now have three measures of centre to consider. You must report one to the director as the "typical commute".
+
+The best choice is the median, not the mean.
+
+Why:
+- The mean is 45.30 minutes, but it is sensitive to extreme values.
+- The median is 33.05 minutes, which is closer to what most students experience.
+- The distribution is skewed by a few very long trips, so the mean overstates the typical commute.
+
+This is supported by the branch data too:
+- Cairo average commute: 60.35 minutes
+- Mean excluding Cairo: 35.84 minutes
+- Median including Cairo: 33.05 minutes
+- Median excluding Cairo: 27.10 minutes
+
+The best summary statement is:
+> The median commute is about 33 minutes, while the mean is 45.30 minutes because a smaller number of students travel much longer distances.
+
+This keeps the report honest while still showing the real problem.
+
+C3. Spread, and why the average alone is a lie
+
+Report the standard deviation and the IQR for commute time. They tell different stories. Why?
+
+Verified spread values:
+- Standard deviation: 39.58 minutes
+- IQR: 37.98 minutes
+- Coefficient of variation: 87.37%
+
+The standard deviation is large because it measures how far values spread around the mean, and it is heavily affected by extreme long commutes. The IQR is more stable because it focuses on the middle 50% of the data and ignores the most extreme values.
+
+Using the 1.5 x IQR rule:
+- Lower fence: -36.59 minutes
+- Upper fence: 115.31 minutes
+
+This means 15 students are outside the normal commuting range and have unusually long commutes. These long trips distort the mean and are exactly why averages alone can be misleading. Importantly, 12 of these 15 outliers are from Cairo alone, which shows that the extreme commuting problem is concentrated in that branch.
+
+Useful policy thresholds:
+- More than 60 minutes: 60 of the 254 students with recorded commute times (23.6%).
+- More than 90 minutes: 23 of the 254 students with recorded commute times (9.1%).
+
+The 90-minute group is a smaller, clearly defined group facing the greatest commute burden and is suitable for a low-cost pilot. The 60-minute group can be considered later if the pilot shows a measurable benefit.
+
+Conclusion:
+A small group of students with very long journeys pulls the mean upward. That is why the average alone is not enough to describe the commute problem. The spread shows that the issue is real, but it is concentrated in a subset of students rather than affecting most of the class. Cairo is the main driver of the problem: 12 out of the 15 outliers come from Cairo.
+
+C4. Cut the data by group
+
+Produce a summary table of commute time by branch: count, mean, median, and standard deviation for each of the five branches.
+
+Verified branch summary:
+
+Branch      Count   Mean    Median   Std Dev
+Cairo       98      60.35   46.60    44.87
+Alexandria  52      43.90   33.35    37.36
+Menoufia    32      36.76   27.55    36.87
+Mansoura    42      32.26   27.70    30.06
+Assiut      30      25.91   24.05    16.13
+
+One branch is dragging the overall average upward.
+- The overall mean including Cairo is 45.30 minutes.
+- The overall mean excluding Cairo is 35.84 minutes.
+- The difference is 9.46 minutes.
+
+This shows that Cairo is the branch with the longest commute times and it strongly influences the headline number. Cairo's mean is 60.35 minutes, while Assiut has a much lower mean of 25.91 minutes. This demonstrates that branch location is important and that the overall average is not a stable measure of the whole population.
+
+Final conclusion:
+The commute problem is real, but it is not true that most students travel about an hour. The median commute is about 33 minutes, which is much more representative of the typical student. The mean is higher because a smaller group of students, especially from Cairo, have much longer journeys. The spread and branch differences show that the problem is real, but it is driven by a minority of unusually long commutes rather than by the typical student experience.
