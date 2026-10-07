@@ -4,6 +4,16 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 
 ---
 
+## Course Certification
+
+This repository documents my completed **Data Analytics & BI** course at the Information Technology Institute (ITI). The course covered **144 lecture hours** from **15 August 2026 to 15 September 2026**.
+
+![ITI Data Analytics and BI course certificate](Course_Certificate.jpeg)
+
+See the [course certificate](Course_Certificate.jpeg) for the official completion record.
+
+---
+
 ## Track Objectives & Core Competencies
 
 - **Relational Database Design & SQL:** Conceptual (ERD) and logical data modeling using SQL Server.
@@ -22,6 +32,7 @@ Repository documentation covering end-to-end coursework, hands-on labs, database
 ## 📁 Repository Structure
 
 ```text
+├── Course_Certificate.jpeg
 ├── 01-Relational DB Design & SQL/
 │   ├── Day-01-ERD/
 │   │   ├── README.md
