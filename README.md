@@ -32,6 +32,7 @@ See the [course certificate](Course_Certificate.jpeg) for the official completio
 ## 📁 Repository Structure
 
 ```text
+├── LICENSE
 ├── Course_Certificate.jpeg
 ├── 01-Relational DB Design & SQL/
 │   ├── Day-01-ERD/
@@ -211,4 +212,5 @@ The Case Study was completed as a team project. My individual contributions were
 **Abdelrahman Taha**
 
 - Data Analytics & Engineering Practitioner
+- Licensed under the [MIT License](LICENSE)
 - [GitHub Profile](https://github.com/abdotaha771) • [LinkedIn Profile](https://www.linkedin.com/in/abdelrahman-taha136/)
